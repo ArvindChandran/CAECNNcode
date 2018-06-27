@@ -19,6 +19,10 @@ Corresponding to steganography, steganalysis is the art of detecting hidden data
 * 2: the subtraction result of cover and stego(small payload)
 <div align=center><img height="330" src="https://github.com/jiangszzzzz/CAECNNcode/blob/master/data/subtraction.jpg?raw=true"/></div>
 
+## J-UNIWARD steganography cat cover and stego
+
+* 3: the subtraction result of cover and stego(payload = 0.3 )
+<div align=center><img height="530" src="https://github.com/jiangszzzzz/CAECNNcode/blob/master/data/1.jpg?raw=true"/></div>
 
 ## deeplearning for steganalysis
 
